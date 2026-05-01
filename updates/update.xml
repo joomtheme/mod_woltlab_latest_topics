@@ -2,14 +2,14 @@
 <updates>
     <update>
         <name>WoltLab Latest Topics</name>
-        <description>Joomla 6.x module for displaying the latest WoltLab Suite topics from an RSS/Atom feed.</description>
+        <description>Displays the latest topics from a WoltLab Suite RSS/Atom feed in Joomla.</description>
         <element>mod_woltlab_latest_topics</element>
         <type>module</type>
         <client>site</client>
-        <version>1.2.1</version>
+        <version>1.2.2</version>
         <infourl title="WoltLab Latest Topics">https://github.com/joomtheme/mod_woltlab_latest_topics</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/joomtheme/mod_woltlab_latest_topics/releases/download/v1.2.1/mod_woltlab_latest_topics_v1.2.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/joomtheme/mod_woltlab_latest_topics/releases/download/v1.2.2/mod_woltlab_latest_topics_v1.2.2.zip</downloadurl>
         </downloads>
         <changelogurl>https://raw.githubusercontent.com/joomtheme/mod_woltlab_latest_topics/main/updates/changelog.xml</changelogurl>
         <tags>
@@ -19,6 +19,6 @@
         <maintainerurl>https://joomtheme.com</maintainerurl>
         <targetplatform name="joomla" version="6\.[0-9]+" />
         <php_minimum>8.2.0</php_minimum>
-        <sha256>f208873e01829accdbd86f7294bd24feb426433b781af126c2c90ddeb49abfd4</sha256>
+        <sha256>431e25ef4fd1aec2bba8353832fcf92a7300f87d35392fa122a562c1e868332a</sha256>
     </update>
 </updates>
