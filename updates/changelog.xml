@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.2.1</version>
+        <change>
+            <item>Aligned the Joomla update XML format with the JoomTheme package update structure.</item>
+            <item>Moved public update metadata to the updates directory for GitHub hosting.</item>
+            <item>Updated maintainer metadata to JoomTheme.</item>
+            <item>Added SHA-256 checksum support to the generated update XML.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.2.0</version>
+        <change>
+            <item>Reworked the extension metadata for international and JED usage.</item>
+            <item>Changed the manifest name and default English language strings to WoltLab Latest Topics.</item>
+            <item>Updated README, update XML and changelog XML to English.</item>
+        </change>
+        <fix>
+            <item>Removed remaining Turkish strings from the default English package identity.</item>
+            <item>Updated internal cache and user-agent version references.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.4</version>
+        <fix>
+            <item>Added GPL license headers to PHP files for JED Checker compliance.</item>
+            <item>Added update server and changelog URL information to the manifest file.</item>
+        </fix>
+        <change>
+            <item>Switched to a GitHub release-based Joomla update server structure.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.3</version>
+        <fix>
+            <item>Removed the external style.css loading call.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.2</version>
+        <change>
+            <item>Changed the card-style topic layout to a simple list layout.</item>
+            <item>Used Bootstrap badges and the btn btn-light class for the button.</item>
+        </change>
+    </changelog>
+</changelogs>
