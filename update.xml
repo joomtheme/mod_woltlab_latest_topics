@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>Forumda Son Konular</name>
-        <description>WoltLab Suite RSS/Atom kaynağından son konu başlıklarını Joomla üzerinde gösterir.</description>
+        <name>WoltLab Latest Topics</name>
+        <description>Displays the latest topic titles from a WoltLab Suite RSS/Atom feed in Joomla.</description>
         <element>mod_woltlab_latest_topics</element>
         <type>module</type>
         <client>site</client>
