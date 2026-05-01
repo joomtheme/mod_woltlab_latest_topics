@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.4</version>
+        <fix>
+            <item>JED Checker için PHP dosyalarına GPL lisans başlığı eklendi.</item>
+            <item>Manifest dosyasına update server ve changelog URL bilgileri eklendi.</item>
+        </fix>
+        <change>
+            <item>GitHub release tabanlı Joomla update server yapısına geçildi.</item>
+        </change>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.3</version>
+        <fix>
+            <item>Harici style.css çağrısı kaldırıldı.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
+        <version>1.1.2</version>
+        <change>
+            <item>Kart görünümü sade listeye çevrildi.</item>
+            <item>Bootstrap badge ve btn btn-light kullanıldı.</item>
+        </change>
+    </changelog>
+</changelogs>
