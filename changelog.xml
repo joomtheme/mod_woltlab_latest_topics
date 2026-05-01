@@ -3,6 +3,20 @@
     <changelog>
         <element>mod_woltlab_latest_topics</element>
         <type>module</type>
+        <version>1.2.0</version>
+        <change>
+            <item>Reworked the extension metadata for international and JED usage.</item>
+            <item>Changed the manifest name and default English language strings to WoltLab Latest Topics.</item>
+            <item>Updated README, update XML and changelog XML to English.</item>
+        </change>
+        <fix>
+            <item>Removed remaining Turkish strings from the default English package identity.</item>
+            <item>Updated internal cache and user-agent version references.</item>
+        </fix>
+    </changelog>
+    <changelog>
+        <element>mod_woltlab_latest_topics</element>
+        <type>module</type>
         <version>1.1.4</version>
         <fix>
             <item>Added GPL license headers to PHP files for JED Checker compliance.</item>
